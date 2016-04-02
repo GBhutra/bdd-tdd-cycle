@@ -1,4 +1,4 @@
-eature: search for movies by director
+Feature: search for movies by director
 
   As a movie buff
   So that I can find movies with my favorite director
